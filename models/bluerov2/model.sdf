@@ -411,9 +411,9 @@
       <use_angvel_cmd>0</use_angvel_cmd>
     </plugin>
 
-    <!-- ignition-marine: hydrodynamics -->
+    <!-- gz-marine: hydrodynamics -->
     <plugin
-        filename="ignition-marine1-hydrodynamics-system"
+        filename="gazebo_marine1-hydrodynamics-system"
         name="ignition::gazebo::systems::Hydrodynamics">
     </plugin>
 
